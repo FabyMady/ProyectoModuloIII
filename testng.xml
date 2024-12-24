@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Juice Shop Test Suite">
+    <test preserve-order="true"  name="Juice Shop Test">
+        <classes>
+            <class name="com.store.runners.TestRunner"></class>
+        </classes>
+    </test>
+</suite>
